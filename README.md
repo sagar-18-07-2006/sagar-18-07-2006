@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sagar+Maheshwari!;AI+%26+Data+Science+Student+at+IIIT+Raichur;Full+Stack+Developer+%7C+Open-Source+Explorer;Turning+Ideas+into+Code+and+Data+into+Stories!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Sagar+Maheshwari!;AI+%26+Data+Science+Student+at+IIIT+Raichur;Full+Stack+Developer+%7C+Open-Source+Explorer;I+turn+ideas+into+code+%7C+data+into+stories!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sagar-18-07-2006&label=Profile+views&color=00ffb2&style=flat-square" alt="profile views"/>
 </p>
 
 ---
@@ -55,9 +59,8 @@ Numpy | Pandas | Matplotlib | Scikit-learn (TensorFlow in progress 🚀)
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar-18-07-2006&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-18-07-2006&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=850&
+
 
 ---
 
@@ -73,8 +76,8 @@ Numpy | Pandas | Matplotlib | Scikit-learn (TensorFlow in progress 🚀)
 
 <p align="center">
   <a href="https://github.com/sagar-18-07-2006"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="[your-linkedin-url](https://www.linkedin.com/in/sagar-maheshwari-27665b335/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://sagarmaheshwariportfolio.netlify.app/"><img src="https://img.shields.io/badge/My%20Portfolio-222?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://www.linkedin.com/in/sagar-maheshwari-270876282/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sagar-18-07-2006.github.io/portfolio-website/"><img src="https://img.shields.io/badge/My%20Portfolio-222?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 </p>
 
 ---
