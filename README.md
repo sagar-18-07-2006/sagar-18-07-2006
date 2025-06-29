@@ -45,6 +45,7 @@ Numpy | Pandas | Matplotlib | Scikit-learn (TensorFlow in progress 🚀)
 - 💡 Exploring **open-source contributions** and collaborative coding
 - ⚔️ Leveling up at **LeetCode & Codeforces** contests  
 - 🎨 Designing data-driven dashboards and AI tools
+- 
 
 ---
 
