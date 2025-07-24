@@ -61,18 +61,12 @@ Numpy | Pandas | Matplotlib | Scikit-learn (TensorFlow 🚀 in progress)
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar-18-07-2006&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-18-07-2006&show_icons=true&theme=radical)
+" />
 </p>
 
 ---
 
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-18-07-2006&theme=react-dark&hide_border=true" />
-</p>
-
----
 
 ## 📬 Connect With Me
 
