@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Sagar+Maheshwari!;AI+%26+Data+Science+Student+at+IIIT+Raichur;Full+Stack+Developer+%7C+Open-Source+Explorer;Turning+ideas+into+code+%7C+data+into+stories!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Sagar+Maheshwari!;AI+%26+Data+Science+Student+at+IIIT+Raichur;Full+Stack+Developer+%7C+Open-Source+Explorer;Turning+ideas+into+code,+and+data+into+stories!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 💻 Proficient in **Python**, **C**, **C++**, with a knack for building clean, scalable, and interactive web experiences.
 
 🚀 Exploring:
-- ✨ **3D particle backgrounds & interactive frontends**
-- 📊 **Data visualizations** & storytelling
-- 📈 **Machine Learning models & data pipelines**
-- 🖥️ **Full Stack Development**
-- ⚔️ **Competitive Programming** (LeetCode | Codeforces)
+- ✨ 3D particle backgrounds & interactive frontends
+- 📊 Data visualizations & storytelling
+- 📈 Machine Learning models & data pipelines
+- 🖥️ Full Stack Development
+- ⚔️ Competitive Programming (LeetCode | Codeforces)
 
 ---
 
@@ -45,7 +45,7 @@
 ![Figma](https://img.shields.io/badge/Figma-333?style=flat&logo=figma)
 
 **AI/ML Toolkit**  
-Numpy | Pandas | Matplotlib | Scikit-learn (TensorFlow 🚀 in progress)
+Numpy | Pandas | Matplotlib | Scikit-learn *(TensorFlow 🚀 in progress)*
 
 ---
 
@@ -58,15 +58,39 @@ Numpy | Pandas | Matplotlib | Scikit-learn (TensorFlow 🚀 in progress)
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 **Winner**, BuildFolio Hackathon 2024  
+- 🔍 **Top Performer**, IIIT Raichur Open Innovation Challenge  
+- 💻 **Finalist**, National Hackathon for AI Projects (2023)  
+- 🏅 Multiple repositories with 20+ stars & growing open-source traction
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-18-07-2006&show_icons=true&theme=radical)
-" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagar-18-07-2006&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sagar-18-07-2006&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-18-07-2006&layout=compact&theme=radical" />
 </p>
 
 ---
 
+## 🌍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagar-18-07-2006&theme=react-dark&area=true&hide_border=true" />
+</p>
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sagar-18-07-2006&theme=radical&no-frame=true&row=1" />
+</p>
+
+---
 
 ## 📬 Connect With Me
 
@@ -79,4 +103,3 @@ Numpy | Pandas | Matplotlib | Scikit-learn (TensorFlow 🚀 in progress)
 ---
 
 > 📝 *“I don’t just code to solve problems — I code to create experiences.”*
-
