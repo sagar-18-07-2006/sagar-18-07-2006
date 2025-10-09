@@ -60,9 +60,7 @@ Numpy | Pandas | Matplotlib | Scikit-learn *(TensorFlow 🚀 in progress)*
 
 ## 🏆 Achievements
 
-- 🥇 **Winner**, BuildFolio Hackathon 2024  
-- 🔍 **Top Performer**, IIIT Raichur Open Innovation Challenge  
-- 💻 **Finalist**, National Hackathon for AI Projects (2023)  
+
 - 🏅 Multiple repositories with 20+ stars & growing open-source traction
 
 ---
