@@ -82,13 +82,6 @@ Numpy | Pandas | Matplotlib | Scikit-learn *(TensorFlow 🚀 in progress)*
 </p>
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagar-18-07-2006&theme=radical&no-frame=true&row=1" />
-</p>
-
----
 
 ## 📬 Connect With Me
 
