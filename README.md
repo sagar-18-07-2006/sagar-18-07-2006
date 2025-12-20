@@ -88,7 +88,7 @@ Numpy | Pandas | Matplotlib | Scikit-learn *(TensorFlow 🚀 in progress)*
 <p align="center">
   <a href="https://github.com/sagar-18-07-2006"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sagar-maheshwari-270876282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://sagar-18-07-2006.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://sagarmaheshwariportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 </p>
 
 ---
